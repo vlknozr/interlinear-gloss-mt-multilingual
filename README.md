@@ -38,6 +38,11 @@ Neural machine translation training with BPE tokenization using OpenNMT-py.
 
 - **Purpose**: Train NMT models for gloss-to-translation and transcription-to-translation tasks
 
+#### [`nllb/`](nllb/)
+Fine-tuning NLLB-200 for gloss-to-translation.
+
+- **Purpose**: Ffine-tune facebook/nllb-200-distilled-600M on multilingual gloss data
+
 ### Fieldwork Data Processing
 
 #### [`wav2gloss_fieldwork/`](wav2gloss_fieldwork/)
